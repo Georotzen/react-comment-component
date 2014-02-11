@@ -1,0 +1,17 @@
+{
+  "name": "react js tryout",
+  "version": "0.0.0",
+  "authors": [
+    "Pontus <pontus@wehead.se>"
+  ],
+  "description": "Trying out React.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

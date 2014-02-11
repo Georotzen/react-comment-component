@@ -1,0 +1,16 @@
+.comment-enter,
+.comment-leave {
+	transition: all 0.4s ease-in;
+}
+
+.comment-leave.comment-leave-active,
+.comment-enter {
+	height: 0;
+	opacity: 0.1;
+}
+
+.comment-enter.comment-enter-active,
+.comment-leave {
+	height: 85px;
+	opacity: 1;
+}
