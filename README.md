@@ -2,8 +2,6 @@
 
 ##Get up n' running
 
-*Execute all of the below tasks in the root directory: __tryout__*
-
 1. Install react-tools globally  
 `npm install -g react-tools`
 
@@ -13,4 +11,4 @@
 3. Start up a server  
 `python -m SimpleHTTPServer`
 
-4. Navigate to [localhost:8000](http//:localhost:8000)
+4. Navigate to [localhost:8000](//localhost:8000)
